@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample1</string>
+    <string name="phoneError">Enter a valid phone No!</string>
+    <string name="passwordError">Enter your password!</string>
+    <string name="YOUR_API_KEY">AIzaSyDQUJT-iDxa7WJ2bmOzGu5PlC_y-Qyz9qs</string>
+    <string name="Address">Current Marker Address</string>
+
+</resources>
